@@ -1,0 +1,133 @@
+{
+  "name": "abracadabrax",
+  "owner": {
+    "name": "Abracadabrax",
+    "email": "support@abracadabrax.app"
+  },
+  "metadata": {
+    "description": "Abracadabrax plugins for Cursor: images, videos, songs and single-purpose makers, rendered with your Abracadabrax credits.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "abracadabrax-video-image-generation",
+      "source": "abracadabrax-video-image-generation",
+      "description": "Describe an image or a short video and get the file back in Cursor: pick the model, the aspect ratio and the length, check the credit price, then render it in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-image-generation",
+      "source": "abracadabrax-image-generation",
+      "description": "Turn a text description into an image in Cursor: photos, illustrations, mockups and graphics with readable text, in the aspect ratio you need, rendered with your Abracadabrax credits."
+    },
+    {
+      "name": "abracadabrax-video-generation",
+      "source": "abracadabrax-video-generation",
+      "description": "Turn a scene description into a short AI video clip in Cursor: landscape, vertical or square, 4 to 12 seconds, with Kling, Sora or Veo, rendered with your Abracadabrax credits."
+    },
+    {
+      "name": "abracadabrax-song-generation",
+      "source": "abracadabrax-song-generation",
+      "description": "Write lyrics with the agent in Cursor and get a finished song with vocals, or an instrumental track, in the genre and mood you pick, rendered with your Abracadabrax credits."
+    },
+    {
+      "name": "abracadabrax-youtube-thumbnail-maker",
+      "source": "abracadabrax-youtube-thumbnail-maker",
+      "description": "Design a bold 16:9 video thumbnail from the topic of your video and a short headline, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-product-photo-generator",
+      "source": "abracadabrax-product-photo-generator",
+      "description": "Turn a product description into a white-background packshot, a lifestyle scene, a flat lay, a hero banner or a close-up for a store or an ad, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-social-media-image",
+      "source": "abracadabrax-social-media-image",
+      "description": "Turn a post idea into an image sized for Instagram, Facebook, LinkedIn, X, Pinterest or a vertical story, with optional text and brand colors, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-poster-flyer-maker",
+      "source": "abracadabrax-poster-flyer-maker",
+      "description": "Design a print-ready poster or flyer with the headline and the details of your event, sale or announcement laid out on it, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-background-music-generator",
+      "source": "abracadabrax-background-music-generator",
+      "description": "Describe a mood and get an original instrumental track for a video, podcast, ad, game, stream or study session, produced in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-birthday-song-maker",
+      "source": "abracadabrax-birthday-song-maker",
+      "description": "Write a birthday song with the agent using the person's name and your memories, and have Abracadabrax sing and produce it in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-album-cover-maker",
+      "source": "abracadabrax-album-cover-maker",
+      "description": "Design square cover art for an album, single, EP, mixtape or playlist from the title, the artist, the genre and the mood, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-coloring-page-maker",
+      "source": "abracadabrax-coloring-page-maker",
+      "description": "Draw a printable black-and-white coloring page from a subject or a scene, simple for toddlers, detailed for kids or intricate for adults, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-greeting-card-maker",
+      "source": "abracadabrax-greeting-card-maker",
+      "description": "Design a personal greeting card or invitation for a birthday, wedding, anniversary, baby shower, holiday or thank-you, with your message printed on it, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-podcast-jingle-maker",
+      "source": "abracadabrax-podcast-jingle-maker",
+      "description": "Produce a 30 or 60 second intro or outro jingle for a podcast, channel or stream, instrumental or with a sung tagline that says the show's name, in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-ai-character-generator",
+      "source": "abracadabrax-ai-character-generator",
+      "description": "Design an original character for a fantasy or RPG campaign, a video game, a story or a mascot, as a portrait, a full-body figure or a character sheet, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-sticker-emoji-maker",
+      "source": "abracadabrax-sticker-emoji-maker",
+      "description": "Create a custom die-cut sticker or emoji-style icon, one design or a set of 4, 6 or 9, with optional short text, on a plain background ready to cut out, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-tattoo-design-generator",
+      "source": "abracadabrax-tattoo-design-generator",
+      "description": "Create an original tattoo design in fine line, blackwork, traditional, watercolor, geometric or Japanese style, as a stencil-ready design or a flash sheet, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-fantasy-map-generator",
+      "source": "abracadabrax-fantasy-map-generator",
+      "description": "Create a map of an imaginary world, continent, kingdom, island, city or dungeon for your tabletop campaign, novel or game, with the place names you choose, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-ai-wallpaper-maker",
+      "source": "abracadabrax-ai-wallpaper-maker",
+      "description": "Create a wallpaper from a theme and a style, sized for phone, desktop, tablet or a square screen with space kept clear for icons and the clock, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-pixel-art-generator",
+      "source": "abracadabrax-pixel-art-generator",
+      "description": "Create 8-bit or 16-bit pixel art for indie games and posts: a character sprite, a sprite sheet, items and icons, a tileset or a full scene, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-tshirt-design-maker",
+      "source": "abracadabrax-tshirt-design-maker",
+      "description": "Create an original graphic and optional slogan for t-shirts, hoodies and print-on-demand merch, centered on a plain background in the color of the garment, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-comic-strip-maker",
+      "source": "abracadabrax-comic-strip-maker",
+      "description": "Create an original comic strip of 3, 4 or 6 panels with speech bubbles from your story and characters, in cartoon, manga, newspaper or graphic novel style, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-book-cover-maker",
+      "source": "abracadabrax-book-cover-maker",
+      "description": "Create a front cover for an ebook, a Kindle book or a print book in 2:3 portrait format, with the title, the subtitle and the author name set in the design, rendered in your Abracadabrax account."
+    },
+    {
+      "name": "abracadabrax-app-icon-generator",
+      "source": "abracadabrax-app-icon-generator",
+      "description": "Create an app icon for iOS, Android, web or desktop apps: one bold symbol on a rounded square, in the style and colors of your app, rendered in your Abracadabrax account."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "abracadabrax-birthday-song-maker": {
+      "type": "http",
+      "url": "https://abracadabrax.app/api/grok/song/mcp"
+    }
+  }
+}

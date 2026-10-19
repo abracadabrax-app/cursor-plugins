@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "abracadabrax-coloring-page-maker": {
+      "type": "http",
+      "url": "https://abracadabrax.app/api/grok/media/mcp"
+    }
+  }
+}

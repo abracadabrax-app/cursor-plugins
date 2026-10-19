@@ -1,0 +1,33 @@
+{
+  "name": "abracadabrax-app-icon-generator",
+  "displayName": "Abracadabrax App Icon Generator",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Create an app icon for iOS, Android, web or desktop apps: one bold symbol on a rounded square, in the style and colors of your app, rendered in your Abracadabrax account.",
+  "author": {
+    "name": "Abracadabrax",
+    "email": "support@abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#app-icon-generator",
+  "repository": "https://github.com/abracadabrax-app/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "app icon",
+    "icon generator",
+    "ios icon",
+    "android icon",
+    "logo icon",
+    "app design",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "abracadabrax",
+    "mcp",
+    "generative-ai"
+  ],
+  "mcpServers": "./mcp.json"
+}

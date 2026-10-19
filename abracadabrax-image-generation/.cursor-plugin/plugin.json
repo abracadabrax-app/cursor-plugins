@@ -1,0 +1,33 @@
+{
+  "name": "abracadabrax-image-generation",
+  "displayName": "Abracadabrax AI Image Generator",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn a text description into an image in Cursor: photos, illustrations, mockups and graphics with readable text, in the aspect ratio you need, rendered with your Abracadabrax credits.",
+  "author": {
+    "name": "Abracadabrax",
+    "email": "support@abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#media",
+  "repository": "https://github.com/abracadabrax-app/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "image generator",
+    "text to image",
+    "ai image",
+    "illustration",
+    "ai art",
+    "mockup",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "abracadabrax",
+    "mcp",
+    "generative-ai"
+  ],
+  "mcpServers": "./mcp.json"
+}

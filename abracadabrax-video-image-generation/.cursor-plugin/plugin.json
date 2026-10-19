@@ -1,0 +1,33 @@
+{
+  "name": "abracadabrax-video-image-generation",
+  "displayName": "Abracadabrax AI Image & Video Generator",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Describe an image or a short video and get the file back in Cursor: pick the model, the aspect ratio and the length, check the credit price, then render it in your Abracadabrax account.",
+  "author": {
+    "name": "Abracadabrax",
+    "email": "support@abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#media",
+  "repository": "https://github.com/abracadabrax-app/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "image generator",
+    "video generator",
+    "text to image",
+    "text to video",
+    "ai image",
+    "ai video",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "abracadabrax",
+    "mcp",
+    "generative-ai"
+  ],
+  "mcpServers": "./mcp.json"
+}

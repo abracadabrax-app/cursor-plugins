@@ -1,0 +1,34 @@
+{
+  "name": "abracadabrax-social-media-image",
+  "displayName": "Abracadabrax Social Media Image & Post Maker",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn a post idea into an image sized for Instagram, Facebook, LinkedIn, X, Pinterest or a vertical story, with optional text and brand colors, rendered in your Abracadabrax account.",
+  "author": {
+    "name": "Abracadabrax",
+    "email": "support@abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#social-media-image",
+  "repository": "https://github.com/abracadabrax-app/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "social media",
+    "instagram post",
+    "story",
+    "pinterest pin",
+    "linkedin post",
+    "post maker",
+    "ai image",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "abracadabrax",
+    "mcp",
+    "generative-ai"
+  ],
+  "mcpServers": "./mcp.json"
+}

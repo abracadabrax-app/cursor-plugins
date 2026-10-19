@@ -1,0 +1,33 @@
+{
+  "name": "abracadabrax-video-generation",
+  "displayName": "Abracadabrax AI Video Generator",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn a scene description into a short AI video clip in Cursor: landscape, vertical or square, 4 to 12 seconds, with Kling, Sora or Veo, rendered with your Abracadabrax credits.",
+  "author": {
+    "name": "Abracadabrax",
+    "email": "support@abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#ai-video-generator",
+  "repository": "https://github.com/abracadabrax-app/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "video generator",
+    "text to video",
+    "ai video",
+    "short video",
+    "reels",
+    "youtube shorts",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "abracadabrax",
+    "mcp",
+    "generative-ai"
+  ],
+  "mcpServers": "./mcp.json"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "abracadabrax-song-generation",
+  "displayName": "Abracadabrax AI Song & Music Maker",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Write lyrics with the agent in Cursor and get a finished song with vocals, or an instrumental track, in the genre and mood you pick, rendered with your Abracadabrax credits.",
+  "author": {
+    "name": "Abracadabrax",
+    "email": "support@abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#song",
+  "repository": "https://github.com/abracadabrax-app/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "song generator",
+    "ai music",
+    "ai song",
+    "lyrics",
+    "instrumental",
+    "music maker",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "abracadabrax",
+    "mcp",
+    "generative-ai"
+  ],
+  "mcpServers": "./mcp.json"
+}

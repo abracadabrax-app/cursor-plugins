@@ -1,0 +1,33 @@
+{
+  "name": "abracadabrax-tshirt-design-maker",
+  "displayName": "Abracadabrax T-Shirt Design Maker",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Create an original graphic and optional slogan for t-shirts, hoodies and print-on-demand merch, centered on a plain background in the color of the garment, rendered in your Abracadabrax account.",
+  "author": {
+    "name": "Abracadabrax",
+    "email": "support@abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#tshirt-design-maker",
+  "repository": "https://github.com/abracadabrax-app/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "t-shirt design",
+    "tshirt maker",
+    "print on demand",
+    "merch design",
+    "hoodie print",
+    "graphic tee",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "abracadabrax",
+    "mcp",
+    "generative-ai"
+  ],
+  "mcpServers": "./mcp.json"
+}

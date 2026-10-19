@@ -1,0 +1,33 @@
+{
+  "name": "abracadabrax-sticker-emoji-maker",
+  "displayName": "Abracadabrax Sticker & Emoji Maker",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Create a custom die-cut sticker or emoji-style icon, one design or a set of 4, 6 or 9, with optional short text, on a plain background ready to cut out, rendered in your Abracadabrax account.",
+  "author": {
+    "name": "Abracadabrax",
+    "email": "support@abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#sticker-emoji-maker",
+  "repository": "https://github.com/abracadabrax-app/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "sticker maker",
+    "emoji maker",
+    "custom stickers",
+    "sticker set",
+    "die-cut sticker",
+    "kawaii",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "abracadabrax",
+    "mcp",
+    "generative-ai"
+  ],
+  "mcpServers": "./mcp.json"
+}

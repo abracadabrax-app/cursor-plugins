@@ -1,0 +1,33 @@
+{
+  "name": "abracadabrax-fantasy-map-generator",
+  "displayName": "Abracadabrax Fantasy Map Generator",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Create a map of an imaginary world, continent, kingdom, island, city or dungeon for your tabletop campaign, novel or game, with the place names you choose, rendered in your Abracadabrax account.",
+  "author": {
+    "name": "Abracadabrax",
+    "email": "support@abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#fantasy-map-generator",
+  "repository": "https://github.com/abracadabrax-app/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "fantasy map",
+    "map generator",
+    "dnd map",
+    "world map",
+    "dungeon map",
+    "rpg map",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "abracadabrax",
+    "mcp",
+    "generative-ai"
+  ],
+  "mcpServers": "./mcp.json"
+}

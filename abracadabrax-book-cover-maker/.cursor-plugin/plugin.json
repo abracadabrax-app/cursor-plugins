@@ -1,0 +1,33 @@
+{
+  "name": "abracadabrax-book-cover-maker",
+  "displayName": "Abracadabrax Book Cover Maker",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Create a front cover for an ebook, a Kindle book or a print book in 2:3 portrait format, with the title, the subtitle and the author name set in the design, rendered in your Abracadabrax account.",
+  "author": {
+    "name": "Abracadabrax",
+    "email": "support@abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#book-cover-maker",
+  "repository": "https://github.com/abracadabrax-app/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "book cover",
+    "ebook cover",
+    "kindle cover",
+    "cover design",
+    "self publishing",
+    "novel cover",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "abracadabrax",
+    "mcp",
+    "generative-ai"
+  ],
+  "mcpServers": "./mcp.json"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "abracadabrax-comic-strip-maker",
+  "displayName": "Abracadabrax Comic Strip Maker",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Create an original comic strip of 3, 4 or 6 panels with speech bubbles from your story and characters, in cartoon, manga, newspaper or graphic novel style, rendered in your Abracadabrax account.",
+  "author": {
+    "name": "Abracadabrax",
+    "email": "support@abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#comic-strip-maker",
+  "repository": "https://github.com/abracadabrax-app/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "comic strip",
+    "comic maker",
+    "manga",
+    "webcomic",
+    "cartoon strip",
+    "speech bubbles",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "abracadabrax",
+    "mcp",
+    "generative-ai"
+  ],
+  "mcpServers": "./mcp.json"
+}

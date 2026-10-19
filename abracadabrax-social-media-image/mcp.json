@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "abracadabrax-social-media-image": {
+      "type": "http",
+      "url": "https://abracadabrax.app/api/grok/media/mcp"
+    }
+  }
+}

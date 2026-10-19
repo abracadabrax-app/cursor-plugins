@@ -1,0 +1,33 @@
+{
+  "name": "abracadabrax-ai-wallpaper-maker",
+  "displayName": "Abracadabrax AI Wallpaper Maker",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Create a wallpaper from a theme and a style, sized for phone, desktop, tablet or a square screen with space kept clear for icons and the clock, rendered in your Abracadabrax account.",
+  "author": {
+    "name": "Abracadabrax",
+    "email": "support@abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#ai-wallpaper-maker",
+  "repository": "https://github.com/abracadabrax-app/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "wallpaper maker",
+    "phone wallpaper",
+    "desktop wallpaper",
+    "lock screen",
+    "background image",
+    "ai wallpaper",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "abracadabrax",
+    "mcp",
+    "generative-ai"
+  ],
+  "mcpServers": "./mcp.json"
+}
